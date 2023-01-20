@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+
+
+h1{
+    font-size: 100px;
+    color: aqua;
+    text-align: center;
+    background-color: white;
+}
+h4{
+    font-size: 3rem;
+    color: hotpink;
+    text-align: center;
+}
+p{
+    color: deeppink;
+    font-size: 20px;
+    
+}
+
+img {
+    height: 200px;
+    margin-left: 200;
+}
